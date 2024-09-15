@@ -75,7 +75,7 @@ This profile will have 3 main Project sections, 2 subsections atleast;
 [![](https://visitcount.itsvg.in/api?id=21KK&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/KiranKumaras21kk) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]([https://patreon.com/patreon.com/KiranKumaras21kk](https://patreon.com/KiranKumaras21kk?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
