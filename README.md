@@ -3,7 +3,7 @@
 Data Specialist | Entrepreneur | Consultant
 
 **Focused on delivering data-driven solutions through analytics, business intelligence, and process optimization.<br>
-This GitHub profile showcases the culmination of years of hands-on experience and diverse projects I’ve worked on. Additionally, you can visit my [website](https://www.k21projects.in) to explore a variety of works, including:**
+This GitHub profile showcases the culmination of years of hands-on experience and diverse projects I’ve worked on. Additionally, you can visit my [website](https://www.k21projects.in) (under construction) to explore a variety of works, including:**
 
 *- Blogs discussing how critical analytics decisions were made.*<br>
 *- Case studies on key business improvements driven by data insights.*<br>
