@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi, Kiran Kumar here as 21KK!👋
-Data Specialist | Entrepreneur | Consultant
+Data Specialist | Entrepreneur | Consultant | Freelancer
 
 **Focused on delivering data-driven solutions through analytics, business intelligence, and process optimization.<br>
 This GitHub profile showcases the culmination of years of hands-on experience and diverse projects I’ve worked on. Additionally, you can visit my [website](https://www.k21projects.in) (under construction) to explore a variety of works, including:**
